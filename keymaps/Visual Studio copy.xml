@@ -84,6 +84,11 @@
   <action id="RefactoringMenuRenameFile">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
