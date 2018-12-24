@@ -1,0 +1,55 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.Diff" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jpa.GenerateSql" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorDuplicate" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Groovy.Shell.Execute" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
+  <action id="KotlinShellExecute" />
+  <action id="NextTab" />
+  <action id="QuickActionPopup" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="UsageView.Rerun" />
+  <action id="ViewSource" />
+  <action id="openAssertEqualsDiff" />
+</keymap>

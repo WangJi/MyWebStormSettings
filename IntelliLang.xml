@@ -1,0 +1,7 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="java">
+      <display-name>&lt;unnamed&gt;</display-name>
+    </injection>
+  </component>
+</application>

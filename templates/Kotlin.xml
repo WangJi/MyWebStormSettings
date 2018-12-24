@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="cmt" value="/** $description$ */" description="Insert block Description" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="" defaultValue=" " alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
