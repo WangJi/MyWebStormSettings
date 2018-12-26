@@ -54,6 +54,9 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Git.Reword.Commit">
@@ -83,11 +86,6 @@
   <action id="QuickActionPopup" />
   <action id="RefactoringMenuRenameFile">
     <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="d" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
