@@ -1,7 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'autoprocess'" />
-    <option name="defaultScopeName" value="Project 'autoprocess'" />
-    <option name="SEARCH_SCOPE" value="Project 'autoprocess'" />
+    <option name="customScope" value="Project 'SerialPortDevice.Port'" />
+    <option name="defaultScopeName" value="Project 'SerialPortDevice.Port'" />
+    <option name="SEARCH_SCOPE" value="Project 'SerialPortDevice.Port'" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
   </component>
 </application>
