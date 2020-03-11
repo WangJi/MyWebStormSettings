@@ -13,5 +13,14 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
+    <pattern icon="question" useCustomColors="true" pattern="\bnote\b.*">
+      <option name="FOREGROUND" value="3766c0" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="\bcritical\b.*">
+      <option name="FOREGROUND" value="f5f2ff" />
+      <option name="BACKGROUND" value="ee840c" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
 </application>
