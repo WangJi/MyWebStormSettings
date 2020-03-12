@@ -125,6 +125,9 @@
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
