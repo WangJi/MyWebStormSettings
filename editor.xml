@@ -27,5 +27,10 @@
       <option name="BACKGROUND" value="ee840c" />
       <option name="FONT_TYPE" value="2" />
     </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="\bbug\b.*">
+      <option name="FOREGROUND" value="f0f0f3" />
+      <option name="BACKGROUND" value="e32225" />
+      <option name="FONT_TYPE" value="1" />
+    </pattern>
   </component>
 </application>
