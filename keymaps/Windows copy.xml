@@ -36,10 +36,12 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup" />
-  <action id="FindUsagesInFile">
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
+  <action id="FindUsagesInFile" />
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
