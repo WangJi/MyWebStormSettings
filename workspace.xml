@@ -1,11 +1,15 @@
 <application>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
     <option name="lastViewedProviderKeyId" value="ts.type.hints" />
     <settingsMapElement>
       <TypeScript.ts.type.hints>
         <Settings>
           <option name="showForInferredParameters" value="false" />
-          <option name="showForVariablesAndFields" value="true" />
         </Settings>
       </TypeScript.ts.type.hints>
     </settingsMapElement>
