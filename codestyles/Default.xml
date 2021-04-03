@@ -149,7 +149,7 @@
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
-    <option name="SOFT_MARGINS" value="80" />
+    <option name="SOFT_MARGINS" value="160" />
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>
