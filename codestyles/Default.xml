@@ -120,6 +120,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
@@ -149,7 +150,6 @@
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
-    <option name="SOFT_MARGINS" value="160" />
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <indentOptions>

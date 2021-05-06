@@ -74,7 +74,7 @@
                   </entry>
                   <entry key="PhoneGap">
                     <value>
-                      <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" />
+                      <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
@@ -119,7 +119,7 @@
                   </entry>
                   <entry key="meteor-app-runner">
                     <value>
-                      <FeaturePluginData displayName="Meteor" pluginName="Meteor" pluginId="com.jetbrains.plugins.meteor" />
+                      <FeaturePluginData displayName="Meteor" pluginName="Meteor" pluginId="com.jetbrains.plugins.meteor" bundled="true" />
                     </value>
                   </entry>
                   <entry key="mocha-javascript-test-runner">
